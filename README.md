@@ -1,2 +1,2 @@
 # odin-recipes
-First test website
+First test website for The Odin Project
